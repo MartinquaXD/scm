@@ -1,0 +1,7 @@
+/contract/node_modules
+*/coverage
+coverage.json
+/.deps
+/scm_client/target
+/contract/artifacts
+/contract/cache
